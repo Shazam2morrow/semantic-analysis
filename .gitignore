@@ -137,3 +137,6 @@ dmypy.json
 
 # profiling data
 .prof
+
+# jupiter notebooks
+.ipynb_checkpoints
